@@ -1,4 +1,4 @@
-# Cubic
+# Cubic (fork)
 
 This is a mostly open source bot made by LordOfTheCube#0419
 
@@ -21,4 +21,6 @@ Moderators: LordOfTheCube#0419, Rxptor#6995
 
 - Command handler and RPS command by TheSourceCode
 
-- Flip command by @charliemp4yt
+- Flip command by @charliemp4yt (me)
+
+- Everything else by LordOfTheCube1
